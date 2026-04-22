@@ -76,3 +76,8 @@ Chandigarh University
 
 ## 🔗 GitHub Repository
 https://github.com/Lokesh637/amazon-sales-powerbi-project
+
+---
+
+## Kaggle Dataset Link
+https://www.kaggle.com/datasets/aliiihussain/amazon-sales-dataset
